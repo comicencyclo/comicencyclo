@@ -29,7 +29,7 @@ Techniques that I have implemented in a hands on manner:
     - Recurrent Neural Networks (LSTM, GRUs)
     - Transformers (BERT, RoBERTa)
   
-My 13+ years of industry experience spans accross:
+My 14+ years of industry experience spans accross:
   - Retail
   - CPG
   - Financial Services
