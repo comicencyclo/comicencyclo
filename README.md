@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am Sandip. I am Vice President & Head of AI/ML at TabSquare.ai . I am also a part-time Kaggler and currently a 4X Kaggle Expert. You can find me on Kaggle here: https://www.kaggle.com/sandy1112
+I am Sandip. I am leading Data Science and ML Engineering at Walmart Marketplace . I am also a part-time Kaggler and currently a 4X Kaggle Expert. You can find me on Kaggle here: https://www.kaggle.com/sandy1112
 
 My Core Competencies:
   - Large Scale Recommender Systems
