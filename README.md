@@ -29,7 +29,7 @@ Techniques that I have implemented in a hands on manner:
     - Recurrent Neural Networks (LSTM, GRUs)
     - Transformers (BERT, RoBERTa)
   
-My 14+ years of industry experience spans accross:
+My 15+ years of industry experience spans accross:
   - Retail
   - CPG
   - Financial Services
@@ -38,8 +38,7 @@ My 14+ years of industry experience spans accross:
 
 Creating 1:1 personalization solutions is an special area of interest to me. 
 
-- 🔭 I’m currently working on Applications of 1:1 Personalization at Scale for F&B Industry...
-- 🌱 I’m currently learning Pytorch (I have been on Tensorflow all this while  😄 ).
+- 🔭 I’m currently working on Applications of Large Scale ML on Online Marketplace.
 - 👯 I’m looking to collaborate on novel ways to create recommender systems using Deep Learning. Also, I like Computer Vision problems as well and always looking to collaborate on  Computer Vision problems.
 - ⚡ Fun fact: As my GitHub name suggests, I am an avid comics reader. This includes comics of all types - English, Hindi, Bengali. Also, creating my own comics strips at leisure is something I love to do.   
 - 📫 How to reach me:  https://in.linkedin.com/in/sandip1006
